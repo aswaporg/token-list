@@ -1,0 +1,29 @@
+{
+  "name": "Set",
+  "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
+  "keywords": ["set", "tokensets", "defi"],
+  "timestamp": "2022-01-19T14:32:17.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+      "name": "DeFi Pulse Index",
+      "symbol": "DPI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dpi.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfDC4a3FC36df16a78edCAf1B837d3ACAaeDB2CB4",
+      "name": "SciFi Index",
+      "symbol": "SCIFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/scifi_index.svg"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 5,
+    "patch": 0
+  }
+}
